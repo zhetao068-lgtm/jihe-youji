@@ -1,21 +1,22 @@
 # 几何有迹 · JiHeYouJi
 
-拖动点和射线，观察几何量怎样变化，再用题目检验自己的推导。几何有迹是一款面向七至九年级的离线动态数学练习工具。
+拖动点和射线，观察几何量怎样变化，再用题目检验自己的推导。几何有迹是一款面向初中数学与物理的离线互动练习工具。
 
-[下载公开体验版](https://github.com/zhetao068-lgtm/jihe-youji/releases/latest) · [技术文章](articles/) · [隐私说明](PRIVACY.md) · [安全反馈](SECURITY.md) · [支持项目](#支持几何有迹)
+[下载公开体验版](https://github.com/zhetao068-lgtm/jihe-youji/releases/latest) · [体验版模型目录](CATALOG.md) · [技术文章](articles/) · [隐私说明](PRIVACY.md) · [安全反馈](SECURITY.md) · [支持项目](#支持几何有迹)
 
-![手机尺寸下的动点实验，图中 P、Q 可分别拖动](media/mobile.png)
+![手机上的双点手拉手模型](media/rotation-mobile.png)
 
 ## 从哪里开始
 
 | 想练的考点 | 目录搜索 |
 | --- | --- |
-| 动点面积分段、多解、极值 | **绕边面积**。试着找同一个面积对应的两个时刻，再打开面积曲线验证。 |
-| 角平分线、全等、相似和圆 | **角平分线**、**SAS**、**相似**、**切线**。 |
-| 一次函数、反比例函数、二次函数的几何意义 | **斜率**、**双曲线**、**定周长矩形**。 |
-| 空间图形 | **正方体展开图**。拖动进度模拟折回。 |
+| 等边、直角、异向、相似比例 | **手拉手**。分别拖 A、C，切换构型比较 AC 与 BD。 |
+| 动点面积分段、多解与函数 | **绕边面积**、**定周长矩形**、**斜率**。 |
+| 数轴区间与统计概率 | **不等式组**、**频率与概率**。 |
+| 测量、运动与力学 | **密度**、**平均速度**、**液体压强**、**浮沉条件**。 |
+| 声光热、电路与磁场 | **平面反射**、**凸透镜**、**熔化**、**欧姆定律**、**磁场**。 |
 
-体验版包含 **14 个互动模型、1 道压轴题和 1 道考题实验**，其中 2 项提供自测。手机上点「模型目录」按考点搜索。考题实验里可以在同一时间轴播放，也可以切换到独立拖动模式，让 P、Q 分开移动。
+体验版包含 **22 项数学、10 项物理**。每项都有可操作的图和自测，并通过「题型与边界」说明条件变化。手机上点「模型目录」，先选科目，再搜考点。数理模型库的完整学习索引已覆盖 147 项数学及 48 项物理，公开下载提供上述体验内容。
 
 ## 下载和运行
 
@@ -37,6 +38,10 @@
 3. [用一个可拖动题目解释多解自测](articles/03-multiple-answers.md)
 4. [同步播放和双点独立拖动各能验证什么](articles/04-dragging-and-playback.md)
 
+- [手拉手模型的三条判断](articles/05-hand-in-hand-rotations.md)
+
+- [凸透镜成像为什么要检查 f 和 2f](articles/06-convex-lens-cases.md)
+
 ## English
 
-**JiHeYouJi** is an offline interactive study tool for junior-high geometry and function graphs. The bilingual landing page links to 16 Chinese-language interactive activities covering moving points, angles, triangles, circles, solids, and graphs. It has searchable topics, local progress, and independent controls for points P and Q in selected activities. Download the Windows x64 package or the preview Android APK from [GitHub Releases](https://github.com/zhetao068-lgtm/jihe-youji/releases). Engineering notes cover piecewise geometry and offline WebView isolation.
+**JiHeYouJi** is an offline study tool for junior-high mathematics and physics. The preview includes 32 Chinese-language interactive activities with topic search, optional quizzes, local progress, and touch controls. Explore paired rotations, geometry and graphs, motion, buoyancy, lenses, circuits, and magnetic fields. Download Windows x64 or the Android preview from [GitHub Releases](https://github.com/zhetao068-lgtm/jihe-youji/releases).

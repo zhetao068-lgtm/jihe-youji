@@ -10,3 +10,7 @@
 - [用一个可拖动题目解释多解自测](03-multiple-answers.md)
 
 - [同步播放和双点独立拖动各能验证什么](04-dragging-and-playback.md)
+
+- [手拉手模型的三条判断](05-hand-in-hand-rotations.md)
+
+- [凸透镜成像为什么要检查 f 和 2f](06-convex-lens-cases.md)
