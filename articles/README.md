@@ -14,3 +14,7 @@
 - [手拉手模型的三条判断](05-hand-in-hand-rotations.md)
 
 - [凸透镜成像为什么要检查 f 和 2f](06-convex-lens-cases.md)
+
+- [浮沉条件与排开体积：先比较密度，再列平衡式](07-buoyancy-density-and-equilibrium.md)
+
+- [同一组电阻的串并联：先认电压和电流的下标](08-series-parallel-constraints.md)

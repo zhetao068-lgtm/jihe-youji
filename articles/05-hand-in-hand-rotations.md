@@ -4,18 +4,18 @@
 
 ## 同一次旋转
 
-若 $B$ 是 $A$ 绕 $O$ 转 $alpha$ 得到的点，$D$ 也是 $C$ 绕同一个 $O$ 同向转 $alpha$ 得到的点，这次旋转会把整条线段 $AC$ 送到 $BD$。因此 $AC=BD$。当两条线段长度非零时，$overrightarrow{AC}$ 与 $overrightarrow{BD}$ 的方向相差 $alpha$。例如 $alpha=90^circ$ 时两直线垂直，$alpha=120^circ$ 时两直线的较小夹角为 $60^circ$。
+若 $B$ 是 $A$ 绕 $O$ 转 $\alpha$ 得到的点，$D$ 也是 $C$ 绕同一个 $O$ 同向转 $\alpha$ 得到的点，这次旋转会把整条线段 $AC$ 送到 $BD$。因此 $AC=BD$。当两条线段长度非零时，$\overrightarrow{AC}$ 与 $\overrightarrow{BD}$ 的方向相差 $\alpha$。例如 $\alpha=90^\circ$ 时两直线垂直，$\alpha=120^\circ$ 时两直线的较小夹角为 $60^\circ$。
 
 ## 不同方向与等长的例外
 
-设两组分别转 $+alpha$ 与 $-alpha$，$OA=a$、$OC=c$，且 $OA$ 到 $OC$ 的方位差是 $	heta$。两条连线的平方由两个夹角控制。
+设两组分别转 $+\alpha$ 与 $-\alpha$，$OA=a$、$OC=c$，且 $OA$ 到 $OC$ 的方位差是 $\theta$。两条连线的平方由两个夹角控制。
 
 $$
  AC^2=a^2+c^2-2ac\cos\theta,\qquad
  BD^2=a^2+c^2-2ac\cos(\theta-2\alpha)
 $$
 
-在 $a,c>0$、$0^circ<alpha<180^circ$ 的范围内，等长恰在 $	heta$ 与 $alpha$ 相差 $180^circ$ 的整数倍时成立。举例来说，$alpha=60^circ$ 时，一周中要检查 $60^circ$、$240^circ$ 两个位置，再按题目的运动范围筛选。
+在 $a,c>0$、$0^\circ<\alpha<180^\circ$ 的范围内，等长恰在 $\theta$ 与 $\alpha$ 相差 $180^\circ$ 的整数倍时成立。举例来说，$\alpha=60^\circ$ 时，一周中要检查 $60^\circ$、$240^\circ$ 两个位置，再按题目的运动范围筛选。
 
 ## 同倍率相似
 
