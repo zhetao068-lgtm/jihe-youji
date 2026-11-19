@@ -18,3 +18,7 @@
 - [浮沉条件与排开体积：先比较密度，再列平衡式](07-buoyancy-density-and-equilibrium.md)
 
 - [同一组电阻的串并联：先认电压和电流的下标](08-series-parallel-constraints.md)
+
+- [频率为何会暂时偏离概率：用固定样本复核一次波动](09-frequency-and-repeatable-samples.md)
+
+- [不等式组的端点：空集、单点与半直线](10-inequality-endpoint-cases.md)
