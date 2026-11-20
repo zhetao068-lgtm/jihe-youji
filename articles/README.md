@@ -22,3 +22,7 @@
 - [频率为何会暂时偏离概率：用固定样本复核一次波动](09-frequency-and-repeatable-samples.md)
 
 - [不等式组的端点：空集、单点与半直线](10-inequality-endpoint-cases.md)
+
+- [双指拖动如何分配控点并在取消后恢复](11-multitouch-pointer-lifecycle.md)
+
+- [温度平台怎样读出熔化、凝固和沸腾](12-phase-change-temperature-plateaus.md)
