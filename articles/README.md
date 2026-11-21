@@ -26,3 +26,7 @@
 - [双指拖动如何分配控点并在取消后恢复](11-multitouch-pointer-lifecycle.md)
 
 - [温度平台怎样读出熔化、凝固和沸腾](12-phase-change-temperature-plateaus.md)
+
+- [生成失败时保留上一个可用版本](13-build-failure-isolation.md)
+
+- [液体压强相同，深度为什么可以不同](14-hydrostatic-depth-and-gauge-pressure.md)
