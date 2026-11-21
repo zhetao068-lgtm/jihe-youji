@@ -45,3 +45,7 @@
 ## English
 
 **JiHeYouJi** is an offline study tool for junior-high mathematics and physics. The preview includes 32 Chinese-language interactive activities with topic search, optional quizzes, local progress, and touch controls. Explore paired rotations, geometry and graphs, motion, buoyancy, lenses, circuits, and magnetic fields. Download Windows x64 or the Android preview from [GitHub Releases](https://github.com/zhetao068-lgtm/jihe-youji/releases).
+
+## 生成与验证
+
+[查看生成路径和验证记录](docs/generation.md)
